@@ -1,23 +1,23 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Neobit Software Consulting
+  content: Guiando equipos a través de Consultoría, Desarrollo y Capacitaciones
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
+    label: "¡Estoy interesado!"
     link: "/contact"
     enable: true
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Nuestros servicios
   features:
-  - name: "Clean Code"
+  - name: "Consultoría"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "Identificación de fallas en una arquitectura de software que afectan el rendimiento y la seguridad, lo que limita la escalabilidad."
+  - name: "Auditoría"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Revisión e identificación de puntos de mejora de sus sistemas, generando informes para optimizar y mejorar su eficiencia."
   - name: "24h Service"
     icon: "/images/user-clock.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"

@@ -1,28 +1,16 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
+      "name": "Servicios",
+      "url": "/services"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Testimonios",
+      "url": "/testimonials"
     }
   ],
   "footer": [
